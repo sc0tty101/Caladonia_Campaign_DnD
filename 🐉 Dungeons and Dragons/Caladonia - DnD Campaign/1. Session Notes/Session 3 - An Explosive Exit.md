@@ -1,0 +1,4 @@
+- With some quick thinking you managed to use the information gleaned from Banjolina and found the smugglers passage in the guards quarters. Along the way you managed pilfer some sort of ledger or document (which you havent reviewed yet), along with a small parcel of medical-looking supplies and an unknown metal ingot of some kind (along with a few bottles of rum).
+- DR-55 lit a small fire to buy some time for your escape, and you managed (after a few attempts) to convince the Kobold Smugglers High-Tide and Low-Tide that you were part of the pirate operation.
+- You were able to take a small tender across to a sleek looking Cutter that was awaiting a rendezvous for some kind of cargo exchange.
+- With a roaring fire (and some additional explosions) you hoisted a fresh flag and set sail on your new vessle, with Cpt Penelope whipping you into ship shape (except for Lord Baron who was busy setting up in the captains quarters).

@@ -1,0 +1,11 @@
+- Group agreed to finish the second quest that Zarya had asked their help with - to retrieve a stolen package that Tweak was waiting for.
+- Zarya shared that she was certain it had been stolen by a known band of young goblins who caused mischief around town (but were generally regarded as pretty harmless). They were known to be hanging out in their dilapidated base in an abandoned watchtower a days walk out of town.
+- Along the journey to the watchtower the group encountered a troll named Harold. Harold made his money as a toll-collector at a small wooden bridge crossing a deep ravine over a river.
+- The group agreed to pay for an annual pass to allow free travel back and forth across the bridge.
+- The group also agreed to try and put in a good word to Zarya about Harold, who had run-ins with Zarya and the city in the past.
+- The group arrived at the watchtower and agreed to take a more peaceful approach with the young goblins. They met Snaggletooth - and agreed a price to pay for the stolen package.
+- As part of the deal Captain Penelope and DR-55 agreed to teach a young goblin girl named Morg how to play her instrument - and offered to put in a good word with Zarya in the hopes she (and the other goblins) could eek out a living playing music at the tavern.
+- The group agreed to head back to town with the package, where it was returned to Tweak.
+- Tweak shared with DR-55 that the contents of the package were a fresh power-core. Whilst very important for automatons they have little value in other uses and Tweak was very happy to have it returned to him.
+- Tweak agreed to look into some enhancements for DR-55 using his tinker skills.
+- That evening a celerbation was had at the Taverns, and it was during this evening that Lord Baron learnt that two gnome merchants - Harold and Henry - were returning from a recently completed trade deal. In their possession - they had on them a very large and very expensive diamond.

@@ -1,0 +1,24 @@
+- The group agreed - and with the help of a former crewmate of Cpt Penelope who was in town - Marcellus Vael - the group hatched a plan to steal the diamond, remain undetected and then leave the Wake to begin their new adventure.
+- As part of their recon, they learnt:
+	- Dancing lights out at sea are a short but effective distraction if done correctly.
+	- Multiple ways to get on and off the ship (ropes tied to the dock, the loading crane, the ladder/boardwalk onto the main deck, and (currently sealed) portholes into the lower deck).
+	- They have good awareness of the dock and surrounds:
+	- The crews locations (which they have now lured into the local tavern)
+	- Patrol paths (granting advantage on attempts to evade these patrols)
+	- Knowledge of a group of sailors on another ship in the dock playing cards)
+	- Where multiple crew are currently sleeping in the onshore bunkhouse.
+	- Where the diamond is located - Either below deck, in a chest in Harold + Henrys room or in the Captains quarters - in the aft-deck area in a sea chest.
+
+- The group succesfuly scoped out the ship and came up with a cunning plan to steal the diamond.
+- Banjolina, DR-55 and Rowdy Roddy set up and delivered a raucous party at the local tavern inn. In doing so they managed to entice most of the guards as well as Cpt Marlowe down to the tavern and keep them distracted.
+- From there - Baron, Cpt Penelope and Zzik-Tcha managed to quickly and quietly dispose of the few sailors remaining (including First Mate Kessa) and sneak below deck.
+- There they quickly became engaged in a fight with Guard Tormund, but they managed to skillfully kill him.
+- Cook Benny and one of the crew were left alive (albeit with the Cook unable to walk again).
+- There was also an impressive moment where Baron ate the head off one of the crew in combat.
+- The crew succesfuly retrieved the diamond that Zarya commisioned for them to deliver.
+	- In addition, they found:
+	- 58 gold pieces
+	- A detailed shipping map, including important references to the Ironclad Company trade routes.
+	- 3 books (Harolds Trading Journal, an empty notebook, and an unidentified spellbook)
+	- 2 scrolls (Destructive Wave, Skywrite)
+

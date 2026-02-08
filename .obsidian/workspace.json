@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "ebde27a12cefaa1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b47cd7f6ac617f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1aeb97e757cf59b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0014a4dc35e84ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d35bc57ee5d41e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7376b367e4002aa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d875c44f8f7d7138",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73e032e88a7305ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 415.5
+  },
+  "right": {
+    "id": "438fd3ef1f6a1df6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2657e30b64518fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f296c3b91f62294b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/03 Government & Law.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03 Government & Law"
+            }
+          },
+          {
+            "id": "2dc6ec040d8cda1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/03 Government & Law.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03 Government & Law"
+            }
+          },
+          {
+            "id": "37c391bbfca27ba9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "95bcdde3b98ba230",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7720f76e153c1cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "7376b367e4002aa2",
+  "lastOpenFiles": [
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/02 History.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/01 Overview.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Port Reverie - City Guide.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Port_Reverie_District_Overview.webp",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Untitled",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Part II Local Powers.md",
+    "Part III Faction Dynamics & DM Tools.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Part I World Powers.md",
+    "⚔️ Chapter 8 Adventure Opportunities.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Key Locations/The Gilded Gutter.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/07 Culture & Life.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Chapter 10 Appendices.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/06 Key NPCs.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/05 Factions.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/04 Districts.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/03 Government & Law.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/🧩 Chapter 9 Running Port Reverie.md",
+    "🗑️ _Trash Bin/Untitled.base",
+    "🗑️ _Trash Bin/Untitled.canvas",
+    "🗑️ _Trash Bin/Chapter 2 - History.md",
+    "🗑️ _Trash Bin/Chapter 5 - Factions.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 11 + 12 + 13 - Arriving into Port and exploring the Gutter.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 11 - Departing the Wake and Arrival into Port Reverie.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 8 + 9 + 10 - The Diamond Heist.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 15 - (5th Nov) Opening Night (Latest).md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 14 - Gilding the Gutter.md",
+    "🗑️ _Trash Bin/Chapter 4 - Districts.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 1 - Battle in the Arena.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 16 - Murder at the Gilded Gutter 15.md",
+    "🗑️ _Trash Bin",
+    "🐉 Dungeons and Dragons"
+  ]
+}

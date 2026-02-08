@@ -1,0 +1,8 @@
+- Met Harbour Master Morn Braddock. Very friendly, didnt ask too many questions and seemed to have a good control over the port. Recommended two restaurants in town (The Bottomfeeders Bounty and the Velvet Fang)
+- You met the owner and chef of the Bottomfeeders Bounty Mirren “Softshell” Varlo. Enjoyed some of her Slop Pot Stew, Crab Legs and Rum Cookies and put on a memorable performance for a small crowd that you drew in.
+- Eventually made your way to the Lanters Rest where you met your contact you had been searching for that was recommeded to you by Toothless Jack.
+- You learnt that Zarya used to work for Red Eye (the captain of the Pirate Lords) - but left after a falling out.
+- You also learnt that its possible that Red Eye has been involved in the smuggling and transportation of a type of metal known as Aetherium, although Zarya does not know why this has become such a valuable commodity.
+- DR-55 met a fellow Warforged for the first time. He shared very little of his past, but did share that he fell off an airship (a VERY RARE and unusual thing in this world) and washed ashore where he was rescued by Zarya and now makes a living in the Lanterns Rest.
+- Zarya offered you rooms and a place to rest and recover. Was willing to put you to work but suggested a more local and immediate problem to test your metal. She suggested two options:
+- Investigate the towns water supply issues which has started to turn bad in the last week. Some men were sent to investigate but have not returned.
