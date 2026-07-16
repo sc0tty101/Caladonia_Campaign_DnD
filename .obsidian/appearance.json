@@ -1,4 +1,5 @@
 {
-  "cssTheme": "ITS Theme",
-  "theme": "system"
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "accentColor": "#d12380"
 }

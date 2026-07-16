@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b47cd7f6ac617f04",
+        "id": "145e355b236dcacb",
         "type": "tabs",
         "children": [
           {
-            "id": "d1aeb97e757cf59b",
+            "id": "50cac0cb4a837955",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 20 (Prep).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 20 (Prep)"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 508.5,
+    "collapsed": true
   },
   "right": {
     "id": "438fd3ef1f6a1df6",
@@ -152,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 20 (Prep).md",
                 "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "showSearch": true,
+                "searchQuery": "fluffer"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 20 (Prep)"
             }
           }
         ],
@@ -165,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,37 +187,49 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7376b367e4002aa2",
+  "active": "50cac0cb4a837955",
   "lastOpenFiles": [
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/02 History.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/01 Overview.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Port Reverie - City Guide.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Port_Reverie_District_Overview.webp",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Untitled",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Part II Local Powers.md",
-    "Part III Faction Dynamics & DM Tools.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Part I World Powers.md",
-    "⚔️ Chapter 8 Adventure Opportunities.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Key Locations/The Gilded Gutter.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/07 Culture & Life.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Chapter 10 Appendices.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/06 Key NPCs.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/05 Factions.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/04 Districts.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/03 Government & Law.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/🧩 Chapter 9 Running Port Reverie.md",
-    "🗑️ _Trash Bin/Untitled.base",
-    "🗑️ _Trash Bin/Untitled.canvas",
-    "🗑️ _Trash Bin/Chapter 2 - History.md",
-    "🗑️ _Trash Bin/Chapter 5 - Factions.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 11 + 12 + 13 - Arriving into Port and exploring the Gutter.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 11 - Departing the Wake and Arrival into Port Reverie.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 8 + 9 + 10 - The Diamond Heist.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 19 Primer - Getting Back in the Saddle.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 17 - Investigation of Seraphines Murder.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 20 (Prep).md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 16 - Murder at the Gilded Gutter 15.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 18.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/0. Brainstorming and session prep/Characters Available for Use/Untitled.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Master Log.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 7 - Snagletooth and the Kids.md",
     "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 15 - (5th Nov) Opening Night (Latest).md",
     "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 14 - Gilding the Gutter.md",
-    "🗑️ _Trash Bin/Chapter 4 - Districts.md",
     "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 1 - Battle in the Arena.md",
-    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 16 - Murder at the Gilded Gutter 15.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 11 + 12 + 13 - Arriving into Port and exploring the Gutter.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 11 - Departing the Wake and Arrival into Port Reverie.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 5 - The Wake.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 4 - On the High Seas.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 3 - An Explosive Exit.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/1. Session Notes/Session 2 - Jailbreak!.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/00. World overview and intro/00 The Chronicles of Caladonia.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/06 Key NPCs.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/Port Reverie - City Guide.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/Part II Local Powers.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/01 Overview.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/Characters/Untitled.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/Key Locations/The Gilded Gutter.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/99. Running the Game - Tips to save/Running an interesting event at the partys HQ.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/03. Port Reverie/Part I World Powers.md",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208123928.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Whispering Cup 1.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Whispering Cup.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208123718.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208124548.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208124144.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208124004.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208123942.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Pasted image 20260208123935.png",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/0. Brainstorming and session prep/Characters Available for Use",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/00. World overview and intro",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/_Assets/Port_Reverie_District_Overview.webp",
+    "🐉 Dungeons and Dragons/Caladonia - DnD Campaign/2. Campaign Cannon/2. Port Reverie/Untitled",
+    "🗑️ _Trash Bin/Untitled.base",
+    "🗑️ _Trash Bin/Untitled.canvas",
     "🗑️ _Trash Bin",
     "🐉 Dungeons and Dragons"
   ]
